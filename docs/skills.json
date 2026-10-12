@@ -950,6 +950,16 @@
     "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering"
   },
   {
+    "name": "kordoc",
+    "nameZh": "kordoc",
+    "desc": "韩国文档（HWP/HWPX/PDF）转 Markdown、表单填写与 HWPX 生成 Skill",
+    "descEn": "Korean document (HWP/HWPX/PDF) to Markdown conversion, form filling, and HWPX generation Skill",
+    "stars": "-",
+    "platform": "claude",
+    "category": "data",
+    "url": "https://github.com/chrisryugj/kordoc/tree/main/plugins/kordoc/skills/kordoc"
+  },
+  {
     "name": "doc-coauthoring",
     "nameZh": "doc-coauthoring",
     "desc": "文档协作撰写 Skill",
